@@ -1,5 +1,5 @@
 /* background example css file */
-#container {
+.container {
     height: 100%;
     background-color: #ADD8E6;
     background-image: url("../img/clouds.jpg");

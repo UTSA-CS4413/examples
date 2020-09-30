@@ -1,5 +1,5 @@
 /* Example css file */
-#main-content {
+.main-content {
     font: small-caps 1.5em Arial, Helvetica, sans-serif;
     background-color: orange;
 }
